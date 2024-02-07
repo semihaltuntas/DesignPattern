@@ -1,6 +1,6 @@
 package be.vdab.theorie;
 
-public class Main {
+public class MainSingleton {
     public static void main(String[] args) {
         Motor.INSTANCE.start();
         stopDeAuto();
