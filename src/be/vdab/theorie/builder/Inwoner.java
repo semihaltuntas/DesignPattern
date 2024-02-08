@@ -1,4 +1,4 @@
-package be.vdab.theorie;
+package be.vdab.theorie.builder;
 
 public class Inwoner {
     private final String voornaam;

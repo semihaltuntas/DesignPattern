@@ -1,4 +1,4 @@
-package be.vdab.theorie;
+package be.vdab.theorie.builder;
 
 public class MainInwoner {
     public static void main(String[] args) {

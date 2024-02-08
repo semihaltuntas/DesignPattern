@@ -1,4 +1,4 @@
-package be.vdab.theorie;
+package be.vdab.theorie.simplefactory;
 
 public enum DocumentFactoryEnum {
     INSTANCE;

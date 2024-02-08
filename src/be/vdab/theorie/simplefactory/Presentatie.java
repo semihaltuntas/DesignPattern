@@ -1,4 +1,4 @@
-package be.vdab.theorie;
+package be.vdab.theorie.simplefactory;
 
 public class Presentatie extends Document {
 
