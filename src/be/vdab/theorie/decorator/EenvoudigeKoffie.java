@@ -10,6 +10,6 @@ public class EenvoudigeKoffie implements Koffie{
 
     @Override
     public String getBereidingswijze() {
-        return "Maal de koffiebonen, laat kokend water over het poeder lopen";
+        return "Maal de koffiebonen, laat kokend water over  poeder lopen";
     }
 }
