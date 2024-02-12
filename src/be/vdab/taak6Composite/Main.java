@@ -21,7 +21,7 @@ public class Main {
         project.addKost(subProject);
 
 
-        System.out.println("project.berekenenPrijs() = " + project.berekenenPrijs());
+        System.out.println("project berekenenPrijs() = " + project.berekenenPrijs());
 
 
     }
