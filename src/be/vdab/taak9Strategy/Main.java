@@ -6,5 +6,7 @@ public class Main {
         vervoer.doeEenOversteek(()-> System.out.println("Schaatsen over het ijs"));
         System.out.println();
         vervoer.doeEenOversteek(()-> System.out.println("Zeilen over het meer!"));
+        System.out.println();
+        vervoer.doeEenOversteek(()->System.out.println("vliegen over de lucht"));
     }
 }
