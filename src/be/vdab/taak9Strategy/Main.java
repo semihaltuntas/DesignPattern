@@ -5,6 +5,6 @@ public class Main {
         var vervoer = new Vervoer();
         vervoer.doeEenOversteek(()-> System.out.println("Schaatsen over het ijs"));
         System.out.println();
-        vervoer.doeEenOversteek(()-> System.out.println("Zeilen over het meer"));
+        vervoer.doeEenOversteek(()-> System.out.println("Zeilen over het meer!"));
     }
 }
