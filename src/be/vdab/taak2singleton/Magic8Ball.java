@@ -4,7 +4,8 @@ import java.util.Random;
 
 public enum Magic8Ball {
     INSTANCE;
-    String[] antwoorden = new String[]{"Zoals ik het zie, ja", "Het is zeker",
+    String[] antwoorden = new String[]{
+            "Zoals ik het zie, ja", "Het is zeker",
             "Hoogst waarschijnlijk", "Ziet er goed uit", "Zonder twijfel.",
             "Ja.", "Zeker.", "Je mag er op rekenen.",
             "Vraag dit later nog eens.", "Dit wil je niet weten.",

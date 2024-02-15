@@ -9,7 +9,7 @@ public class Technieker implements Observer {
 
     @Override
     public void update(FotokopieMachine fotokopieMachine) {
-        System.out.println("Technieker " + personeelsNummer + " noteert onderhoud voor machine" +
+        System.out.println("Technieker " + personeelsNummer + " noteert onderhoud voor machine :" +
                 fotokopieMachine.getSeriNummer());
     }
 }

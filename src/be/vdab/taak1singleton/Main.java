@@ -8,6 +8,7 @@ public class Main {
             Versnellingsbak.INSTANCE.hoger();
             Versnellingsbak.INSTANCE.hoger();
             Versnellingsbak.INSTANCE.hoger();
+//            Versnellingsbak.INSTANCE.hoger(); //6. versnelling
 
             Versnellingsbak.INSTANCE.lager();
             Versnellingsbak.INSTANCE.lager();

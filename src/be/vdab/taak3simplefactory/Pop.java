@@ -7,3 +7,5 @@ public class Pop extends SpeelGoed{
         super(prijs);
     }
 }
+
+
